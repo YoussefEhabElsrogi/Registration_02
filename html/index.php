@@ -10,7 +10,6 @@
 </head>
 
 <body>
-
   <div class="container" id="container">
     <div class="form-container sign-up">
       <form>
@@ -59,7 +58,6 @@
       </div>
     </div>
   </div>
-
   <script src="../js/script.js"></script>
 </body>
 
